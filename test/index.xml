@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tests on My New Hugo Site</title>
-    <link>http://xumaoxuan.github.io/test/</link>
+    <link>http://replace-this-with-your-hugo-site.com/test/</link>
     <description>Recent content in Tests on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Aug 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://xumaoxuan.github.io/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://replace-this-with-your-hugo-site.com/test/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Third Post</title>
-      <link>http://xumaoxuan.github.io/test/third/</link>
+      <link>http://replace-this-with-your-hugo-site.com/test/third/</link>
       <pubDate>Thu, 20 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://xumaoxuan.github.io/test/third/</guid>
+      <guid>http://replace-this-with-your-hugo-site.com/test/third/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
 when an unknown printer took a galley of type and scrambled it to make a type
@@ -28,10 +28,10 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     
     <item>
       <title>Second Post</title>
-      <link>http://xumaoxuan.github.io/test/second/</link>
+      <link>http://replace-this-with-your-hugo-site.com/test/second/</link>
       <pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://xumaoxuan.github.io/test/second/</guid>
+      <guid>http://replace-this-with-your-hugo-site.com/test/second/</guid>
       <description>
 
 &lt;p&gt;Lorem Ipsum is simply dummy text of the printing  and typesetting industry.
@@ -78,10 +78,10 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     
     <item>
       <title>Sweet Post</title>
-      <link>http://xumaoxuan.github.io/test/yetanother/</link>
+      <link>http://replace-this-with-your-hugo-site.com/test/yetanother/</link>
       <pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://xumaoxuan.github.io/test/yetanother/</guid>
+      <guid>http://replace-this-with-your-hugo-site.com/test/yetanother/</guid>
       <description>
 
 &lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
